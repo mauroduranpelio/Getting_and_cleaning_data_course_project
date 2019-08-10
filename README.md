@@ -10,8 +10,8 @@
 
 ## Further information:
 
-In order to perform analysis, the original dataset must be downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
+* In order to perform analysis, the original dataset must be downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
-It is advisable to read in detail the CodeBook.md file.
+* It is advisable to read in detail the **CodeBook.md** file.
 
-Open the and run the run_analysis.R script. The outcome is a nice tidy dataset called "tidydataset.txt"
+* Open the and run the **run_analysis.R** script. The outcome is a nice tidy dataset called "**tidydataset.txt**"
